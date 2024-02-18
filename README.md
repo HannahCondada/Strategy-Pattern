@@ -9,6 +9,7 @@
 3. Archer: Shoots arrows; uses dodge to to defend
 
 **Implement two types of Strategy:**
+
 A.  DefenseStrategy
 
      1. Shield
